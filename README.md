@@ -12,6 +12,3 @@
 </p>
 <p align="center">• MERN stack</p>
 <p align="center">• DevOps</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinbalaguer&layout=compact" />
-</p>
