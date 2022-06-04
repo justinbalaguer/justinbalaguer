@@ -1,1 +1,1 @@
-![APEC](https://apec-status.vercel.app/on/apec-status-on.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinbalaguer&theme=tokyonight)](https://github.com/justinbalaguer/github-readme-stats)
