@@ -3,7 +3,7 @@
                           %%                                   @justinbalaguer.dev
                 %%%%          %%%%                             ----------
            %%%                     %%                          Location: "Philippines"
-        %%                           %%                        Languages: ["Javascript", "Python", "PHP"]
+        %%                           %%                        Languages: ["Javascript", "PHP", "C#", "Python"]
      %%                                %      %%%%%%      %%   OS: ["Ubuntu", "Windows"]
                                          %%%             %%%   IDE/Text Editor: ["Neovim", "VSCode"]
    %%                              %%%  %            %%%       Shell: "fish"
