@@ -1,16 +1,18 @@
 ```python
 > ojinfetch
-                          %%                                   @justinbalaguer.dev
-                %%%%          %%%%                             ----------
-           %%%                     %%                          Location: "Philippines"
-        %%                           %%                        Languages: ["Javascript", "PHP", "C#", "Python"]
-     %%                                %      %%%%%%      %%   OS: ["Ubuntu", "Windows"]
+                                                               @justinbalaguer
+                      %%  %%                                   
+                %%%%          %%%%                             #about
+           %%%                     %%                          ----------
+         %%                         %%                         Location: "Philippines"
+       %%                            %%                        Languages: ["Javascript", "PHP", "C#", "Python"]
+     %%                                %      %%%%%%  %%  %%   OS: ["Ubuntu", "Windows"]
                                          %%%             %%%   IDE/Text Editor: ["Neovim", "VSCode"]
    %%                              %%%  %            %%%       Shell: "fish"
    %%                        %%%%        %     %%%%%          
    %%                  %%%%        %%%%% %%%%                  #contact
    %%            %%%%       %%       %%%  %%                   ----------
-    %      %%%%           %%              %%                   Email: "hello@justinbalaguer.dev"
+    %      %%%%           %%              %%                   Email: "justinbalaguer@pm.me"
     %% %%/    %%%%%%    %%                 %                   Matrix: "@ojintoji:matrix.org"
             %%        %%*%%                %*                  
      %      %%          %%                 %                   #socials
