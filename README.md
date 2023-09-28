@@ -28,4 +28,4 @@
                         %%%%%%%                             
 ```
 [![@ojintoji's Holopin board](https://holopin.io/api/user/board?user=ojintoji)](https://holopin.io/@ojintoji)
-[![@ojintoji's Holopin board](https://holopin.io/api/user/board?user=ojintoji)](https://holopin.io/@justinbalaguer)
+[![@ojintoji's Holopin board](https://holopin.io/api/user/board?user=justinbalaguer)](https://holopin.io/@justinbalaguer)
