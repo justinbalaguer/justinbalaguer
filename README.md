@@ -27,5 +27,4 @@
                   %%%%       %%                             
                         %%%%%%%                             
 ```
-[![@ojintoji's Holopin board](https://holopin.io/api/user/board?user=ojintoji)](https://holopin.io/@ojintoji)
-[![@ojintoji's Holopin board](https://holopin.io/api/user/board?user=justinbalaguer)](https://holopin.io/@justinbalaguer)
+[![An image of @ojintoji's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ojintoji)](https://holopin.io/@ojintoji)
