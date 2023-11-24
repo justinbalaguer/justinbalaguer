@@ -6,8 +6,8 @@
            %%%                     %%                          ----------
          %%                         %%                         Location: "Philippines"
        %%                            %%                        Languages: ["Javascript", "PHP", "C#", "Python"]
-     %%                                %      %%%%%%  %%  %%   OS: ["Ubuntu", "Windows"]
-                                         %%%             %%%   IDE/Text Editor: ["Neovim", "VSCode"]
+     %%                                %      %%%%%%  %%  %%   OS: ["Arch btw", "Ubuntu", "Windows"]
+                                         %%%             %%%   IDE/Text Editor: ["Neovim btw", "VSCode"]
    %%                              %%%  %            %%%       Shell: "fish"
    %%                        %%%%        %     %%%%%          
    %%                  %%%%        %%%%% %%%%                  #contact
