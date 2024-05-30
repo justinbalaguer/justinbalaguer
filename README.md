@@ -5,10 +5,10 @@
                 %%%%          %%%%                             #about
            %%%                     %%                          ----------
          %%                         %%                         Location: "Philippines"
-       %%                            %%                        Languages: ["Javascript", "PHP", "C#", "Python"]
-     %%                                %      %%%%%%  %%  %%   OS: ["Arch btw", "Ubuntu", "Windows"]
-                                         %%%             %%%   IDE/Text Editor: ["Neovim btw", "VSCode"]
-   %%                              %%%  %            %%%       Shell: "fish"
+       %%                            %%                        Languages: ["Javascript", "Typescript", "Python"]
+     %%                                %      %%%%%%  %%  %%   OS: ["Arch btw", "Windows"]
+                                         %%%             %%%   IDE/Text Editor: ["Neovim btw"]
+   %%                              %%%  %            %%%       Shell: "zsh"
    %%                        %%%%        %     %%%%%          
    %%                  %%%%        %%%%% %%%%                  #contact
    %%            %%%%       %%       %%%  %%                   ----------
