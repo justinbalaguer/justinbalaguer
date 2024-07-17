@@ -5,9 +5,9 @@
                 %%%%          %%%%                             #about
            %%%                     %%                          ----------
          %%                         %%                         Location: "Philippines"
-       %%                            %%                        Languages: ["Javascript", "Typescript", "Python"]
-     %%                                %      %%%%%%  %%  %%   OS: ["Arch btw", "Windows"]
-                                         %%%             %%%   IDE/Text Editor: ["Neovim btw"]
+       %%                            %%                        Language: "Javascript/Typescript"
+     %%                                %      %%%%%%  %%  %%   OS: "Archlinux"
+                                         %%%             %%%   IDE/Text Editor: "Neovim"
    %%                              %%%  %            %%%       Shell: "zsh"
    %%                        %%%%        %     %%%%%          
    %%                  %%%%        %%%%% %%%%                  #contact
